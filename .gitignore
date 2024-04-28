@@ -1,0 +1,9 @@
+.env
+.vscode/
+input/
+logs/
+node_modules/
+output/
+yarn.lock
+yarn-error.log
+src/test.ts
